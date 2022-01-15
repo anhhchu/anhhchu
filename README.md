@@ -27,7 +27,7 @@ Welcome to my GitHub Nest. I'm an ETL engineer who is currently working on an an
 
 ✨ When I grew up, not many girls were encouraged to study engineering, science or technology. I had both of my bachelors and masters in Business, and later on realized that technology is where my career path should be. I believe in life-long professional development, and that I can learn anything with hard work and dedication no matter how late I start.
 
-👩🏻‍💻 I’m currently working on ETL data pipeline using Big Data tools, Databases and Data warehouse on GCP and Azure. My tech stacks are Python, SQL, Linux, PySpark, Airflow, and BigQuery. 
+👩🏻‍💻 I’m currently working on ETL data pipeline using Big Data tools, Databases and Data warehouse on GCP and Azure. My tech stacks are Python, SQL, Linux, PySpark, Airflow, Tableau, BigQuery and Dataproc
 
 🌱 I’m learning Ruby on Rails and back-end web development stacks at the moment
 
