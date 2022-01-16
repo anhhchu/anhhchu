@@ -25,10 +25,10 @@ Hi there,
 
 Welcome to my GitHub Nest. I'm an ETL engineer who is currently working on an analytics web application to help Walmart International Markets track end2end inventory level across different nodes in their massive supply chain. I'm passionate about working with data and bringing data insights closer to business users through the help of technology.  I have experience in backend web development, data enginnering, big data, and data science projects. 
 
-✨ When I grew up, not many girls were encouraged to study engineering, science or technology. I had both of my bachelors and masters in Business, and later on realized that technology is where my career path should be. I believe in life-long professional development, and that I can learn anything with hard work and dedication no matter how late I start.
+✨ When I grew up, girls were not encouraged to study engineering, science or technology. I had both of my bachelors and masters in Business, but later on realized that technology is where my career path should be. I believe in life-long professional development, and that I can learn anything with hard work and dedication no matter how late I start.
 
 👩🏻‍💻 I’m currently working on ETL data pipeline using Big Data tools, Databases and Data warehouse on GCP and Azure. My tech stacks are Python, SQL, Linux, PySpark, Airflow, Tableau, BigQuery and Dataproc
 
 🌱 I’m learning Ruby on Rails and back-end web development stacks at the moment
 
-⚡ Fun fact: LeetCode grinding is a hobby of mine. I enjoy solving at least 1 problem everyday to sharpen my understanding of fundamental data structure and algorithms to write more efficient codes. 
+⚡ Fun fact: LeetCode grinding is a daily hobby of mine. Better understanding of fundamental data structure and popular algorithms helps me write more efficient codes. 
