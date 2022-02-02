@@ -33,6 +33,6 @@ Welcome to my GitHub Nest. I'm an ETL engineer who is currently working on an an
 
 👩🏻‍💻 I’m currently working on ETL data pipeline using Big Data tools, Databases and Data warehouse on GCP and Azure. My tech stacks are Python, SQL, Linux, PySpark, Airflow, Tableau, BigQuery and Dataproc
 
-🌱 I’m learning Ruby on Rails and back-end web development stacks at the moment
+🌱 I’m learning Ruby on Rails and back-end web development at the moment
 
 ⚡ Fun fact: LeetCode grinding is a daily hobby of mine. Better understanding of fundamental data structure and popular algorithms helps me write more efficient codes. 
