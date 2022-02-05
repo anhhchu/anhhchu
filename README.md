@@ -27,7 +27,7 @@
 ---
 Hi there,
 
-Welcome to my GitHub Nest. I'm an ETL engineer who is currently working on an analytics web application to help Walmart International Markets track end2end inventory level across different nodes in their massive supply chain. I'm passionate about working with data and bringing data insights closer to business users through the help of technology.  I have experience in data enginnering, big data, data science and backend web development projects. 
+Welcome to my GitHub Nest. I'm a software engineer who is currently working on an analytics web application to help Walmart International Markets track end2end inventory level across different nodes in their massive supply chain. I'm passionate about working with data and bringing data insights closer to business users through the help of technology.  I have experience in data enginnering, big data, data science and backend web development projects. 
 
 ✨ When I grew up, girls were not encouraged to study engineering, science or technology. I had both of my bachelors and masters in Business, but later on realized that technology is where my career path should be. I believe in life-long professional development, and that I can learn anything with hard work and dedication no matter how late I start.
 
