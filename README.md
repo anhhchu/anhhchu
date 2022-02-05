@@ -19,7 +19,7 @@
   
 </details> -->
 
-<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anh</h1>
+<h1 align="center"> <img src="wave.gif" width="30px"> Hi, I'm Anh</h1>
 <h3 align="center">Software Engineer @Microsoft | Data Lover | Lifelong Learner | Woman in Tech 👩🏻‍💻</h3>
 
 Welcome to my GitHub Nest. I'm a Software Engineer who is passionate about working with data and bringing data insights closer to business users through the help of technology. I have experience in data engineering, big data, data science, back-end databases for web application. I’m currently working on ETL data pipeline using Big Data tools, Databases and Data warehouse on GCP and Azure. My tech stacks are Python, MSSQL, Linux, PySpark, Airflow, Tableau, BigQuery and Dataproc. 
