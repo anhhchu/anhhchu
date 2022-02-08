@@ -29,5 +29,3 @@ Welcome to my GitHub Nest. I'm a Software Engineer who is passionate about worki
 ✨ When I grew up, girls were not encouraged to study engineering, science or technology. I had both of my bachelors and masters in Business, but later on realized that technology is where my career path should be. I'm a self-taught developer who enjoy the ongoing pursuit of knowledge even outside of the formal education system. I believe in life-long professional development, and that I can learn anything with hard work and dedication no matter how late I start
 
 🌱 I’m learning Ruby on Rails, API and web development at the moment
-
-⚡ Fun fact: LeetCode grinding is a daily hobby of mine. Better understanding of fundamental data structure and popular algorithms helps me write more efficient codes. *"One LeetCode problem a day keeps the worries away"*
