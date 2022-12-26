@@ -26,4 +26,4 @@ Welcome to my GitHub. I'm a Software Engineer who is passionate about working wi
 
 👩🏻‍💻 I have experience in data engineering, big data, data science, data warehouse, back-end databases for web application on GCP, Azure and AWS. My tech stacks are Python, SQL, Linux, PySpark, Kafka, Airflow, Tableau, Kubernetes, BigQuery, Redshift, and Azure Synapse Analytics
 
-✨ I had both of my bachelors and masters in Business, but later on realized that technology is where my career path should be. I'm a self-taught developer who enjoy the ongoing pursuit of knowledge even outside of the formal education system. I believe in life-long professional development, and that I can learn anything with hard work and dedication no matter how late I start
+✨ I’m a self-taught developer who enjoy the ongoing pursuit of knowledge and skills outside of the formal education system. I love collaborating with people from different background and experience in order to achieve organizational goals. Besides programming, I like cooking, gardening, hiking, and blogging.
