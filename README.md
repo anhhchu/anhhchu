@@ -3,7 +3,7 @@
     <img src="github-chipmunk-dev.gif">
   </a>
    
-  <a href="https://anhhchu.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-violet?style=for-the-badge"></a>
+  <a href="https://anhcodes.dev/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-violet?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/anhhchu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://leetcode.com/jasminmay/" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
   <a href="mailto:anhhchu12@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
