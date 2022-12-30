@@ -18,7 +18,7 @@
 <h1 align="center"> <img src="wave.gif" width="30px"> Hi, I'm Anh</h1>
 <h3 align="center">Software Engineer | Data Lover | Lifelong Learner | Woman in Tech 👩🏻‍💻</h3>
 
-Welcome to my GitHub. I'm a Software Engineer who is passionate about working with data and bringing data insights closer to business users through the help of technology. 
+Hello World! Welcome to `anhcodes`. I'm a Software Engineer who is passionate about working with data and bringing data insights closer to business users through the help of technology. 
 
 👩🏻‍💻 I have experience in data engineering, big data, data science, data warehouse, back-end databases for web application on GCP, Azure and AWS. My tech stacks are Python, SQL, Linux, PySpark, Kafka, Airflow, Tableau, Kubernetes, BigQuery, Redshift, and Azure Synapse Analytics
 
