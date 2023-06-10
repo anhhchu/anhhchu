@@ -2,6 +2,7 @@
    
   <a href="https://anhcodes.dev/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-red?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/anhhchu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://dev.to/anhcodes" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/Devto-23263B?style=for-the-badge&logo=devto&logoColor=white"></a>
 </div>
 
 <!--  
