@@ -17,7 +17,7 @@
 </details> -->
 
 <h1 align="center"> <img src="wave.gif" width="30px"> Hi, I'm Anh</h1>
-<h3 align="center">Software Engineer | Data Lover | Lifelong Learner | Woman in Tech 👩🏻‍💻</h3>
+<h3 align="center">Solutions Architect | Data Lover | Lifelong Learner | Woman in Tech 👩🏻‍💻</h3>
 
 Hello World! Welcome to my repo. I'm an Engineer who is passionate about working with data and bringing data insights closer to business users through the help of technology. 
 
