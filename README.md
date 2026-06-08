@@ -1,4 +1,3 @@
-![image](https://github.com/anhhchu/anhhchu/blob/master/music1.png?raw=true)
  <div align="center">
    
   <a href="https://anhcodes.dev/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-red?style=for-the-badge"></a>
